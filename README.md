@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amryehia10
 - 👀 I’m interested in Machine Learning and Computer Science
-- 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me ... amr.yehiaz100@gmail.com | https://www.linkedin.com/in/amr-yehia-16ay
 
 <div>
