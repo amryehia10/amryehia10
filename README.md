@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amryehia10
-- 👀 I’m interested in Machine Learning and Computer Science
+- 👀 I’m interested in Web Development, Cross-platform Mobile Applications Development and Machine Learning
 - 📫 How to reach me ... amr.yehiaz100@gmail.com | https://www.linkedin.com/in/amr-yehia-16ay
 
 <div>
