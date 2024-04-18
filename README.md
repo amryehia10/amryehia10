@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amryehia10
 - 👀 I’m interested in Web Development, Cross-platform Mobile Applications Development and Machine Learning
-- 📫 How to reach me ... amr.yehiaz100@gmail.com | https://www.linkedin.com/in/amr-yehia-16ay
+- 📫 How to reach me ... amr.yehiaz100@gmail.com | www.linkedin.com/in/amryehia
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
